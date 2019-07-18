@@ -1,0 +1,26 @@
+SMAP
+orderSubmitted_jsp.java
+JSP
+*S JSP
+*F
++ 0 orderSubmitted.jsp
+users_buyers/orderSubmitted.jsp
+*L
+1:44,2
+6,5:46
+10:50,2
+11,31:52
+42:83,3
+43,4:86
+47:90,3
+48,4:93
+52:97,3
+53:100
+54:101,3
+55,5:104
+60,2:109,3
+62,5:115
+67,2:120,3
+69,26:126
+94:151
+*E

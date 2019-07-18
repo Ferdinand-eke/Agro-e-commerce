@@ -1,0 +1,12 @@
+SMAP
+confirmOrder_jsp.java
+JSP
+*S JSP
+*F
++ 0 confirmOrder.jsp
+users_buyers/confirmOrder.jsp
+*L
+1:44,2
+6,188:46
+194:234,2
+*E
